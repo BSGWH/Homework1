@@ -1,5 +1,5 @@
 Homework 1
-This assignment will be due on May 25th 23:59 PT.
+This assignment will be due on May 23th 23:59 PT.
 
 Write a C program that creates an array based on users’  input value and then prints out the elements of the array in reverse order.
 
