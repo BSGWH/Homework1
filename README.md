@@ -11,14 +11,14 @@ Make sure to use appropriate variable names and provide clear instructions and p
 
 Example output:
 
-Enter the size of the array: 3
-Input the value: 
-1
-Input the value: 
-2
-Input the value: 
-3
-Elements of the array in reverse order:
-[3 2 1]
+Enter the size of the array: 3 <br>
+Input the value: <br>
+1<br>
+Input the value: <br>
+2<br>
+Input the value: <br>
+3<br>
+Elements of the array in reverse order:<br>
+[3 2 1]<br>
 
 Don’t forget to attach the output screenshots in README.md.
