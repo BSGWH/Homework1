@@ -19,6 +19,6 @@ Input the value: <br>
 Input the value: <br>
 3<br>
 Elements of the array in reverse order:<br>
-[3 2 1]<br>
+[3, 2, 1]<br>
 
 Don’t forget to attach the output screenshots in README.md.
